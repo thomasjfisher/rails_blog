@@ -54,7 +54,7 @@ group :development do
   gem 'guard-livereload', '~> 2.5', require: false
   # Guard::LiveReload automatically reloads your browser when 'view' files are modified.
 
-  gem 'better_errors', '~> 2.7', '>= 2.7.1'
+  gem 'better_errors', '~> 2.8'
   # Provides a better error page for Rails and other Rack apps. Includes source code inspection, a live REPL and local/instance variable inspection for all stack frames.
 
 end
